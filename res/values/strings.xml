@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Random Color Changer</string>
+    <string name="description">Changes the background color to a random color when touched.</string>
+
+</resources>
